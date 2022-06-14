@@ -2,4 +2,4 @@
 
 test 2
 
-https://GITHUB-USERNAME.github.io/rstest/
+https://IraklisSt.github.io/rstest/
